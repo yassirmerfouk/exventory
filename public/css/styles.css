@@ -1,0 +1,9 @@
+.cursive {
+    font-family: cursive;
+}
+
+@media screen and (max-width: 600px) {
+    .table-responsive-mobile {
+        overflow-x: auto;
+    }
+}
